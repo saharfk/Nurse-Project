@@ -1,0 +1,49 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Home</title>
+    <link rel="stylesheet" href="{% static '' %}css/bulma.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+
+<body>
+
+<section class="section">
+    <div class="container">
+        <div class="columns is-mobile is-centered">
+            <div class="column is-four-fifths">
+
+
+                <!-- list -->
+                <div class="box" style="color: #1c1c1c; background: #48c774">
+                    med 1
+                </div>
+                <div class="box" style="color: #1c1c1c; background: #48c774">
+                    med 2 substitute
+                </div>
+                <div class="box" style="color: #1c1c1c; background: #48c774">
+                    med 3
+                </div>
+                <div class="box" style="color: #1c1c1c; background: #48c774">
+                    med 4 substitute
+                </div>
+
+                <!-- end list -->
+                <!-- button -->
+                <div class="buttons">
+                    <a href="{% url 'S19' %}">
+                        <button class="button is-link">next step</button>
+                    </a>
+                </div>
+                <!-- end button -->
+            </div>
+        </div>
+    </div>
+</section>
+</body>
+
+</html>
