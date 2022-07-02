@@ -1,4 +1,6 @@
 # Create your views here.
+from distutils.command.config import config
+
 from django.shortcuts import render
 
 
@@ -93,3 +95,30 @@ def step21(request):
 
 def step22(request):
     return render(request, 'patientInfo.html')
+
+
+def reports(request):
+    form = request.GET["myText"]
+
+    context = {
+        'form': form,
+    }
+    return render(request, 'reports.html', context)
+
+
+def reportTextP(request):
+    form = request.GET["myText"]
+
+    context = {
+        'form': form,
+    }
+    return render(request, 'reportTextP.html', context)
+
+
+def reportTextWE(request):
+    form = request.GET["myText"]
+
+    context = {
+        'form': form,
+    }
+    return render(request, 'reportTextWE.html', context)

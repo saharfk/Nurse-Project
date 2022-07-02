@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1116f112-94ef-48fd-bf7b-7ce240aaa8bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/mysite/home/templates/reportP.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mysite/home/templates/reportP.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/mysite/home/templates/reportT.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mysite/home/templates/reportT.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/mysite/home/templates/reportWE.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mysite/home/templates/reportWE.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/mysite/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mysite/home/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/mysite/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mysite/home/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mysite/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mysite/mysite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/mysite/user/templates/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mysite/user/templates/signup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/mysite/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mysite/user/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nurse project front-end/img/Instagram_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nurse project front-end/img/instagram_black.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,47 +19,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/direct.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/indexPOK.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-352">
-              <caret line="8" column="65" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/mysite/user/templates/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/backend/mysite/mysite/settings.py">
+        <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/reports.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="118" column="33" selection-start-line="118" selection-start-column="33" selection-end-line="118" selection-end-column="33" />
+            <state relative-caret-position="320">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/reportTextP.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/reportTextWE.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -68,8 +51,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -80,6 +63,7 @@
       <find>&lt;a</find>
       <find>medicationAllOk</find>
       <find>accounts</find>
+      <find>post</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -88,12 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/instagramCloneProject-front-end/HTML_files/medicationAllOk.html" />
-        <option value="$PROJECT_DIR$/instagramCloneProject-front-end/HTML_files/directP.html" />
-        <option value="$PROJECT_DIR$/instagramCloneProject-front-end/HTML_files/directT.html" />
-        <option value="$PROJECT_DIR$/instagramCloneProject-front-end/HTML_files/directWE.html" />
-        <option value="$PROJECT_DIR$/instagramCloneProject-front-end/HTML_files/infoWE.html" />
-        <option value="$PROJECT_DIR$/instagramCloneProject-front-end/HTML_files/reportWE.html" />
         <option value="$PROJECT_DIR$/instagramCloneProject-front-end/HTML_files/final med.html" />
         <option value="$PROJECT_DIR$/instagramCloneProject-front-end/HTML_files/direct.html" />
         <option value="$PROJECT_DIR$/instagramCloneProject-front-end/HTML_files/med sub2.html" />
@@ -110,9 +88,6 @@
         <option value="$PROJECT_DIR$/backend/mysite/user/views.py" />
         <option value="$PROJECT_DIR$/backend/mysite/user/template/login.html" />
         <option value="$PROJECT_DIR$/backend/mysite/user/templates/login.html" />
-        <option value="$PROJECT_DIR$/backend/mysite/mysite/urls.py" />
-        <option value="$PROJECT_DIR$/backend/mysite/home/views.py" />
-        <option value="$PROJECT_DIR$/backend/mysite/home/urls.py" />
         <option value="$PROJECT_DIR$/backend/mysite/home/templates/direct.html" />
         <option value="$PROJECT_DIR$/backend/mysite/home/templates/directP.html" />
         <option value="$PROJECT_DIR$/backend/mysite/home/templates/directT.html" />
@@ -131,14 +106,23 @@
         <option value="$PROJECT_DIR$/backend/mysite/home/templates/medSub4.html" />
         <option value="$PROJECT_DIR$/backend/mysite/home/templates/patientInfo.html" />
         <option value="$PROJECT_DIR$/backend/mysite/home/templates/reportMed.html" />
-        <option value="$PROJECT_DIR$/backend/mysite/home/templates/reportP.html" />
-        <option value="$PROJECT_DIR$/backend/mysite/home/templates/reportT.html" />
-        <option value="$PROJECT_DIR$/backend/mysite/home/templates/reportWE.html" />
         <option value="$PROJECT_DIR$/backend/mysite/home/templates/success.html" />
         <option value="$PROJECT_DIR$/backend/mysite/user/urls.py" />
         <option value="$PROJECT_DIR$/backend/mysite/user/templates/signup.html" />
         <option value="$PROJECT_DIR$/backend/mysite/home/templates/index.html" />
+        <option value="$PROJECT_DIR$/backend/mysite/mysite/urls.py" />
         <option value="$PROJECT_DIR$/backend/mysite/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/backend/mysite/home/templates/reortTextWE.html" />
+        <option value="$PROJECT_DIR$/backend/mysite/home/templates/reortTextP.html" />
+        <option value="$PROJECT_DIR$/backend/mysite/home/urls.py" />
+        <option value="$PROJECT_DIR$/backend/mysite/home/forms.py" />
+        <option value="$PROJECT_DIR$/backend/mysite/home/views.py" />
+        <option value="$PROJECT_DIR$/backend/mysite/home/templates/reportWE.html" />
+        <option value="$PROJECT_DIR$/backend/mysite/home/templates/reportP.html" />
+        <option value="$PROJECT_DIR$/backend/mysite/home/templates/reportT.html" />
+        <option value="$PROJECT_DIR$/backend/mysite/home/templates/reportTextWE.html" />
+        <option value="$PROJECT_DIR$/backend/mysite/home/templates/reportTextP.html" />
+        <option value="$PROJECT_DIR$/backend/mysite/home/templates/reports.html" />
       </list>
     </option>
   </component>
@@ -185,31 +169,7 @@
               <item name="backend" type="462c0819:PsiDirectoryNode" />
               <item name="mysite" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Parinaz project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Parinaz project" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Parinaz project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Parinaz project" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Parinaz project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Parinaz project" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Parinaz project" type="b2602c69:ProjectViewProjectNode" />
@@ -265,19 +225,21 @@
       <workItem from="1655378153919" duration="7263000" />
       <workItem from="1655716741692" duration="674000" />
       <workItem from="1656417675759" duration="3859000" />
-      <workItem from="1656616455937" duration="6857000" />
+      <workItem from="1656616455937" duration="7156000" />
+      <workItem from="1656702147276" duration="3137000" />
+      <workItem from="1656782048208" duration="3639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18653000" />
+    <option name="totallyTimeSpent" value="25728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22844176" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23600605" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -303,27 +265,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nurse project front-end/directWE.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nurse project front-end/final med.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nurse project front-end/generalreport.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nurse project front-end/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nurse project front-end/indexPOK.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nurse project front-end/indexTempOk.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nurse project front-end/indexWEOk.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/nurse project front-end/infoP.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -362,13 +303,6 @@
     <entry file="file://$PROJECT_DIR$/nurse project front-end/reportWE.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/mysite/home/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1168">
-          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/directP.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -398,13 +332,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/generalReport.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/indexTempOk.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
@@ -481,54 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/reportP.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/reportT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/reportWE.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/mysite/user/templates/signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="76" column="51" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/mysite/user/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/mysite/user/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Codogrammer website/mysite/home/templates/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -537,40 +416,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/success.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/mysite/mysite/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="e#630#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/mysite/home/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/mysite/user/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/direct.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
@@ -586,15 +431,158 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-352">
-          <caret line="8" column="65" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="65" />
+        <state relative-caret-position="128">
+          <caret line="8" column="65" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/user/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/direct.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/mysite/mysite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="118" column="33" selection-start-line="118" selection-start-column="33" selection-end-line="118" selection-end-column="33" />
+        <state relative-caret-position="397">
+          <caret line="115" column="32" selection-start-line="115" selection-start-column="32" selection-end-line="115" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/user/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/indexTempOk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/user/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/user/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/user/templates/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="69" column="43" selection-start-line="69" selection-start-column="43" selection-end-line="69" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/reortTextWE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/reortTextP.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/home/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/home/forms.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#26#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/reportP.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/reportWE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/reportT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/reportTextWE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/reportTextP.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/mysite/home/templates/reports.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
         </state>
       </provider>
     </entry>
