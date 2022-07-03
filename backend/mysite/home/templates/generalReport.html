@@ -23,37 +23,39 @@
                     <article class="media">
                         <div class="media-content">
                             <div class="content">
-                                <p>
-                                    <strong>General Report</strong>
 
-                                    <br>
+                                <strong>Genral report</strong>
+
+                                <br>
+                                <form method=get action=reportsGeneral role="form">
                                     <article class="media">
                                         <div class="media-content">
                                             <div class="field">
-                                <p class="control">
-                                    <textarea class="textarea" placeholder="Add a comment..."></textarea>
-                                </p>
+                                                <p class="control">
+                                                    <textarea name="myText" rows="10" cols="140"></textarea></p>
+                                            </div>
+
+                                        </div>
+                                    </article>
+                                    <br>
+                                    <!-- button -->
+                                    <div class="buttons">
+                                        <button type="submit" name="action" class="button is-success">
+                                            Ok
+                                        </button>
+                                    </div>
+
+                                    <!-- end button -->
+                                </form>
                             </div>
 
                         </div>
                     </article>
-                    </p>
                 </div>
 
+
             </div>
-            </article>
         </div>
-
-        <!-- button -->
-        <div class="buttons">
-            <a href="{% url 'S21' %}">
-                <button class="button is-success">finish</button>
-            </a>
-        </div>
-
-        <!-- end button -->
-    </div>
-    </div>
     </div>
 </section>
 </body>

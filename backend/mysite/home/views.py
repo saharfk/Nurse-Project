@@ -122,3 +122,21 @@ def reportTextWE(request):
         'form': form,
     }
     return render(request, 'reportTextWE.html', context)
+
+
+def reportTextMed(request):
+    form = request.GET["myText"]
+
+    context = {
+        'form': form,
+    }
+    return render(request, 'reportTextMed.html', context)
+
+
+def reportTextGeneral(request):
+    form = request.GET["myText"]
+
+    context = {
+        'form': form,
+    }
+    return render(request, 'reportTextGeneral.html', context)

@@ -29,4 +29,6 @@ urlpatterns = [
     path('step3/P1/reports/', views.reports, name='reports'),
     path('step7/P1/reportsP/', views.reportTextP, name='reportsP'),
     path('step11/P1/reportsWE/', views.reportTextWE, name='reportsWE'),
+    path('step19/P1/reportsMed/', views.reportTextMed, name='reportsMed'),
+    path('step20/P1/reportsGeneral/', views.reportTextGeneral, name='reportsGeneral'),
 ]
